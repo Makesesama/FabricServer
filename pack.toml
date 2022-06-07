@@ -1,0 +1,16 @@
+name = "Makussu Plus Plus"
+author = "Makussu"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6f270c3536e4028795e8468f8a9871b3182b98e68442219cf93c9b8527280504"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
+
+[options]
+acceptable-game-versions = ["1.18.2", "1.18"]
